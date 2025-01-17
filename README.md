@@ -1,8 +1,7 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farchon-dev%2Fha-danodvoza&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/archon-dev/ha-danodvoza.git/)
-[![GitHub issues](https://img.shields.io/github/issues/archon-dev/ha-danodvoza)](https://github.com/archon-dev/ha-danodvoza.git/issues) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farchon-dev%2Fha-danodvoza&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/archon-dev/ha-danodvoza)
+[![GitHub issues](https://img.shields.io/github/issues/archon-dev/ha-danodvoza)](https://github.com/archon-dev/ha-danodvoza/issues) 
 ![GitHub User's stars](https://img.shields.io/github/stars/archon-dev)
-![GitHub Repo stars](https://img.shields.io/github/stars/archon-dev/ha-danodvoza)
-
+![GitHub Repo stars](https://img.shields.io/github/issues/archon-dev/ha-danodvoza)
 
 # Home Assistant Integration of Moj Dan Odvoza
 This is a custom integration of garbage pick up dare data into Home Assistant.
